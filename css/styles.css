@@ -324,7 +324,7 @@ body {
 .footer-list {
 }
 
-.footer-list-item:not(last-child) {
+.footer-list-item:not(:last-child) {
     margin-bottom: 9px;
 }
 
